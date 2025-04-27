@@ -53,12 +53,7 @@ class BackupSystem:
             print("Backup integrity failed: Differences detected.")  # Сообщение об ошибке
 
 
-# Действия для запуска кода в PyCharm:
-# 1. Открыть PyCharm и создать новый проект.
-# 2. Создать директории 'data_source' (исходные данные) и 'data_backup' (резервные копии).
-# 3. Добавить несколько файлов в 'data_source' для тестирования.
-# 4. Создать новый файл 'backup_system.py' и вставить в него этот код.
-# 5. Запустить скрипт и проверить вывод.
+
 
 # Пример использования
 source_directory = "data_source"  # Папка с исходными данными
